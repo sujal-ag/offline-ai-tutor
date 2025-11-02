@@ -1,0 +1,7 @@
+PyQt5==5.15.9
+huggingface-hub==0.19.4
+python-dotenv==1.0.0
+
+# Required by backend/model_manager.py
+torch>=2.1.0
+transformers>=4.35.0
